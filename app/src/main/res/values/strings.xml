@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubUsers</string>
+    <string name="search">search</string>
+    <string name="login">Login</string>
+    <string name="avatar_url">Avatar_url</string>
+    <string name="name">name</string>
+    <string name="bio">bio</string>
+    <string name="site_admin">site_admin</string>
+    <string name="location">location</string>
+    <string name="blog">Blog</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+</resources>

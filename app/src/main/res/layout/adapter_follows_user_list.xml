@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/button_detail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/image_view_avatar_url"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/ic_baseline_person_off_24"/>
+
+    <TextView
+        android:id="@+id/text_view_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:text="@string/login"
+        android:textSize="16dp"/>
+</LinearLayout>

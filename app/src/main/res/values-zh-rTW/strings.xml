@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub用戶</string>
+    <string name="search">搜尋</string>
+    <string name="login">帳號</string>
+    <string name="avatar_url">頭像</string>
+    <string name="name">名稱</string>
+    <string name="bio">簡歷</string>
+    <string name="site_admin">管理員</string>
+    <string name="location">所在地</string>
+    <string name="blog">部落格</string>
+    <string name="followers">跟隨者</string>
+    <string name="following">跟隨</string>
+</resources>
